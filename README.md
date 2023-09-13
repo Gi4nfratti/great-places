@@ -1,16 +1,17 @@
-# great_places
+# Great Places
 
-A new Flutter project.
+Inventory of places the user visits and want to save the moment with a photo.
 
-## Getting Started
+Provider | Google Maps | SQLite
 
-This project is a starting point for a Flutter application.
+https://github.com/Gi4nfratti/great-places/assets/32543785/be2bb530-2221-4464-8d94-aa495f06315d
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/Gi4nfratti/great-places/assets/32543785/d622d341-ba63-4fa5-a345-dbb5c528c53d" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/great-places/assets/32543785/be780e51-57da-4753-a341-391b9cd58ed5" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/great-places/assets/32543785/65effba1-2fda-456d-8ce5-7eb402c5315d" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/great-places/assets/32543785/eb4a2bc4-f2c7-4dc7-89bc-e6510d69b6c4" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/great-places/assets/32543785/7b2ea04c-fe19-4a79-86c3-55c4d840e0b2" width="300" height="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
